@@ -7,17 +7,5 @@ dash-html-components
 dash-core-components
 pandas
 numpy
-matplotlib.pyplot
 matplotlib
-plotly.subplots
-base64
-WordCloud
-BytesIO
-io
 wordcloud
-dash
-Input
-Output
-dash.dependencies
-warnings
-plotly.graph_objs
